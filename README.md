@@ -11,7 +11,7 @@ The training procedure involves using the output of the teacher model and the gr
 | Name                | Roll Number         |
 |---------------------|---------------------|
 | Sampath             | VU22CSEN0500075     |
-| Hrishkesh           | VU22CSEN05000043    |
+| Hrishikesh           | VU22CSEN05000043    |
 | Ravindranath Tagore | VU22CSEN0600109     |
 
 **Mentor**: Dr. S. Anuradha
