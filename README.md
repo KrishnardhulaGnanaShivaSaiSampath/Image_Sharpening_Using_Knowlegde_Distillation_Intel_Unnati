@@ -20,8 +20,12 @@ The training procedure involves using the output of the teacher model and the gr
 
 - **Dataset Link**: [Google Drive](https://drive.google.com/drive/folders/195dmOS4l2ltLfIncxxar9D3vs-FO0kas?usp=sharing)
 - **Project Demo Video**: [Google Drive](https://drive.google.com/drive/folders/1ewjKEJROSeblKg2HJc5VQg4oKnw3RbEU?usp=sharing)
+- **Restored images**: [Google Drive](https://drive.google.com/drive/folders/1xX3VSRaYSGs8vrcJvxNhzvbw8ZQZWvCA?usp=sharing)
 
-> **Note**: In the system architecture part of the video, the output image size is shown as 256×480, but the actual output size used during training and inference is **1920×1080**. Also, the Input and ReLU layers are not explicitly shown in the diagram.
+> ### **Note**
+1. In the system architecture part of the video, the output image size is shown as 256×480, but the actual output size used during training and inference is **1920×1080**.  
+2. The Input and ReLU layers are not explicitly shown in the architecture diagram.  
+3. The dataset containing **5200 images** is used exclusively for **training**, while the **validation dataset with 200 images** is used solely for **testing** the model.
 
 ## System Architecture
 
